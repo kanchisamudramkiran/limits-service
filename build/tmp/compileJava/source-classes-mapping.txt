@@ -1,0 +1,8 @@
+com/samples/limitsservice/Configuration.java
+ com.samples.limitsservice.Configuration
+com/samples/limitsservice/bean/LimitConfiguration.java
+ com.samples.limitsservice.bean.LimitConfiguration
+com/samples/limitsservice/LimitsServiceApplication.java
+ com.samples.limitsservice.LimitsServiceApplication
+com/samples/limitsservice/controller/LimitsConfigurationController.java
+ com.samples.limitsservice.controller.LimitsConfigurationController
